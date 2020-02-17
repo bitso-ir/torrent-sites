@@ -9,5 +9,11 @@ list of best torrent sites that you can download torrent files from
 * p2pdl.com
 * mejortorrentt.org
 * eztv.io
+* orutor.org
+* glodls.to
+* freecoursesonline.me
+* cinecalidad.to
+* gamestorrents.nu
+* uniondht.org
 
 Sponsored by https://bitso.ir
