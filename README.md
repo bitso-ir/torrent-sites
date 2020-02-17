@@ -6,5 +6,8 @@ list of best torrent sites that you can download torrent files
 * yts.mx
 * 1337x.to
 * torrentgalaxy.to
+* p2pdl.com
+* mejortorrentt.org
+* eztv.io
 
 Sponsored by https://bitso.ir
