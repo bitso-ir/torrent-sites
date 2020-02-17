@@ -14,5 +14,7 @@ list of best torrent sites that you can download torrent files from
 * [cinecalidad.to](https://www.cinecalidad.is)
 * [gamestorrents.nu](https://www.gamestorrents.nu)
 * [uniondht.org](http://uniondht.org)
+* [nulledpremium.com](https://nulledpremium.com)
+* [ftuapps.dev](https://ftuapps.dev)
 
 Sponsored by https://bitso.ir
