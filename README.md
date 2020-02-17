@@ -1,5 +1,5 @@
 # torrent-sites
-list of best torrent sites that you can download torrent files
+list of best torrent sites that you can download torrent files from
 
 * FreeTutorials.Us
 * RARBG.to
