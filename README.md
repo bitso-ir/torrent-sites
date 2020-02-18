@@ -17,5 +17,6 @@ list of best torrent sites that you can download torrent files from
 * [nulledpremium.com](https://nulledpremium.com)
 * [ftuapps.dev](https://ftuapps.dev)
 * [extratorrent.ag](https://extratorrent.ag)
+* [limetorrents.info](https://www.limetorrents.info)
 
 Sponsored by https://bitso.ir
