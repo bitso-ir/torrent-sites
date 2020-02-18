@@ -19,6 +19,8 @@ list of best torrent sites that you can download torrent files from
 * [extratorrent.ag](https://extratorrent.ag)
 * [limetorrents.info](https://www.limetorrents.info)
 * [torrentdownloads.me](https://www.torrentdownloads.me)
+* [extratorrent.ag](https://extratorrent.ag)
+
 
 
 [torrents.io](https://torrents.io)
