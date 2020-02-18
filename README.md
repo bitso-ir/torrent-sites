@@ -20,7 +20,9 @@ list of best torrent sites that you can download torrent files from
 * [limetorrents.info](https://www.limetorrents.info)
 * [torrentdownloads.me](https://www.torrentdownloads.me)
 
+
 [torrents.io](https://torrents.io)
+Torrents.io combines popular torrent sites and specialized private trackers
 
 
 Sponsored by https://bitso.ir
