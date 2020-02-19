@@ -10,6 +10,7 @@ list of best torrent sites that you can download torrent files from
 * [eztv.io](https://eztv.io)
 * [orutor.org](http://orutor.org)
 * [glodls.to](http://glodls.to)
+* [freecoursesite.com](https://freecoursesite.com)
 * [freecoursesonline.me](https://www.freecoursesonline.me)
 * [cinecalidad.to](https://www.cinecalidad.is)
 * [gamestorrents.nu](https://www.gamestorrents.nu)
