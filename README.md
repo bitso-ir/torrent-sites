@@ -1,5 +1,5 @@
 # بهترین سایتهای دانلود تورنت
-list of best torrent sites that you can download torrent files from
+بهترین سایت هایی که شما میتوانید از آنها فایل تورنت دانلود کنید در اینجا فهرست شده است.
 
 * [RARBG.to](https://rarbg.to)
 * [yts.mx](https://yts.mx)
