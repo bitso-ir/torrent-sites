@@ -27,13 +27,6 @@
 
 
 
-[torrents.io](https://torrents.io)
-
-Torrents.io combines popular torrent sites and specialized private trackers
-
-
-
-
 اسپانسر:
 
 دانلودر تورنت بیتسو
