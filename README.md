@@ -1,5 +1,5 @@
 # بهترین سایتهای دانلود تورنت
-بهترین سایت هایی که شما میتوانید از آنها فایل تورنت دانلود کنید در اینجا فهرست شده است.
+بهترین سایت هایی که شما میتوانید از آنها فایل تورنت دانلود کنید در اینجا فهرست شده است
 
 * [RARBG.to](https://rarbg.to)
 * [yts.mx](https://yts.mx)
@@ -31,5 +31,6 @@
 
 Torrents.io combines popular torrent sites and specialized private trackers
 
-
-Sponsored by https://bitso.ir
+اسپانسر
+https://bitso.ir
+تورنت را با بیتسو دانلود نمایید
