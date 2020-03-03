@@ -33,8 +33,11 @@ Torrents.io combines popular torrent sites and specialized private trackers
 
 
 
-https://bitso.ir
+
 اسپانسر:
 
 دانلودر تورنت بیتسو
+
 تورنت را با بیتسو دانلود نمایید
+
+https://bitso.ir
