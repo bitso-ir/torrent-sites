@@ -31,7 +31,10 @@
 
 Torrents.io combines popular torrent sites and specialized private trackers
 
-اسپانسر
-https://bitso.ir
 
+
+https://bitso.ir
+اسپانسر:
+
+دانلودر تورنت بیتسو
 تورنت را با بیتسو دانلود نمایید
