@@ -23,6 +23,7 @@
 * [extratorrent.ag](https://extratorrent.ag)
 * [rgmechanics-games](https://rgmechanics-games.com)
 * [torrent9](https://www4.torrent9.to)
+* [oxtorrent](https://www.oxtorrent.com)
 
 
 
